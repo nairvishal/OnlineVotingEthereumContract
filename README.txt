@@ -24,4 +24,4 @@ Refer the below link for detailed Problem Statement -
 This workspace contains 2 directories:
 
 1. **'contracts'**: Holds the Online Election Voting System Contract.
-3. **'tests'**: Will have test script to test Voting.Solidity.
+3. **'tests'**: Will have test script to test Voting.Solidity..
