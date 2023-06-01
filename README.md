@@ -21,4 +21,4 @@ Following Use Cases are included in the Smart Contract :-
 ------------
 
 Refer the below link for detailed Problem Statement - 
-[Project Problem Statement](https://www.notion.so/Online-Voting-Application-d343f74188754996af93c440d2522187?pvs=4#5ff5681acca5492e81f54b7b67687337)
+[Project Problem Statement](https://file.notion.so/f/s/ae6b33bf-50a7-4de9-b668-1a833b795967/Voting_Capstone_problemstatement.pdf?id=5ff5681a-cca5-492e-81f5-4b7b67687337&table=block&spaceId=021059ab-33ee-4569-b13a-b7f010f23cdd&expirationTimestamp=1685704806193&signature=Kfkw-Z7jWXbxmkiV077XWCS0xuDqTyxnyFZRoQvJAgs&downloadName=Voting_Capstone_problemstatement.pdf)
